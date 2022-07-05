@@ -4,7 +4,7 @@ Criei estes arquivos com metodo de introdução a linguagem de programação Jav
 #
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89606273/177327071-beefc588-da67-48c8-bc0e-9bf99510456b.png" width="1200px" height="300px" />
+<img src="https://user-images.githubusercontent.com/89606273/177327071-beefc588-da67-48c8-bc0e-9bf99510456b.png" width="1200px" height="260px" />
 </div>
 
 #

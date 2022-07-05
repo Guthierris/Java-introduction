@@ -1,6 +1,6 @@
 # Java-introduction<img align="center" alt="Gut-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-Criei estes arquivos com metodo de introdução a linguagem de programação Java, os arquivos de classes estão denominadas com suas funções principais, este conteudo é basico e didatico criado por mim, conta com a introdução a linguagem e com exercicios basicos.
+Criei estes arquivos com metodo de introdução a linguagem de programação Java, os arquivos de classes estão denominadas com suas funções principais, este conteudo é basico e didatico criado por mim, conta com a introdução a linguagem e alguns exercicios basicos.
 #
 
 <div align="center">

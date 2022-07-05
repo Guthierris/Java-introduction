@@ -16,4 +16,4 @@ Atividades utilizam as operações ensinadas no nivel mais basico a cima, então
 •Crie um programa que cria um vetor de x posições, solicita o usuario um dado e armazena na posição x do vetor.<br>
 •Crie um programa que solicita um numero inteiro e retorna se o numero é impar ou par.<br><br>
 
-➤Os programas estão resolvidos nas classes denominadas.
+➤Os programas estão resolvidos nas classes denominadas na pasta atividades.
